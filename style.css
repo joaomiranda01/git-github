@@ -1,0 +1,11 @@
+body {
+    background: black url(imagens/20142022316323.webp) center center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    color:white ;
+    border-radius: 22px;
+
+}
